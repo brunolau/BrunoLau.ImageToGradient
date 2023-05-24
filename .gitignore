@@ -1,0 +1,7 @@
+.vs
+TestApp/bin/
+TestApp/obj/
+TestApp/node_modules/
+TestApp/TestApp.csproj.user
+BrunoLau.ImageToGradient/bin/
+BrunoLau.ImageToGradient/obj/
